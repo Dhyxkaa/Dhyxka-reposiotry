@@ -1,2 +1,2 @@
-# Dhyxka-reposiotry
+# Dhyxka-repository
 tutorial untuk belajar git
